@@ -324,5 +324,7 @@ To share this API collection:
 2. Add all requests (Register, Login, Logout, Refresh Token)
 3. Export collection as JSON
 4. Share with team members
+5. Import into their Postman to start testing
+6. List of Registered users can only be seen by the admin who have Access to MongoDB Atlas Database
 
 This documentation ensures consistent API testing across all devices and environments using Postman's powerful features.
